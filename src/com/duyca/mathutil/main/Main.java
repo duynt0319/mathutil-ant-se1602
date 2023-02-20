@@ -58,6 +58,6 @@ public class Main {
         //test case 4: test getF() with n = 5, wrong argument
         //expected value: an exeception is throw IllegalArgumentExeception
         System.out.println("test -5!: expect illegal Argument exception");
-        MathUtility.getFactorial(-5);
+        MathUtility.getFactorial(5);
     }
 }

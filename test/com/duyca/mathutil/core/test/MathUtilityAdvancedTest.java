@@ -28,7 +28,7 @@ public class MathUtilityAdvancedTest {
     @Parameterized.Parameters
     public static Object[][] initData() {
         return new Object[][]{
-            {0, 1}, {1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 120}
+            {0, 1}, {1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 120},{6,720}
         };
     }
     //map tuừng cặp data ở trên vào 2 biến, đẩy 2 biến này bào hàm assertEquals() đã quen
