@@ -1,3 +1,5 @@
+[![Demotration of using CI with GitHub Actions, Ant and JUnit | © 2023 by Thanh Duy](https://github.com/thanhduymc/mathutil-ant-se1602/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/thanhduymc/mathutil-ant-se1602/actions/workflows/mathutil-ant-ci.yml)
+
 # Welcome to Math Ultility Repository
 
 ### You will find in this repo the following stuff(Java code):
